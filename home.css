@@ -1,0 +1,19 @@
+body{
+    margin:0% auto;
+}
+#search{
+    background:white url("homepagefood.jpg") scroll;
+    height:500px;
+    background-size: 100% 600px; 
+    background-size: cover;
+}
+
+#QuickSearch{
+    background-color: aquamarine;
+}
+
+.header{
+    background-color:navy;
+    height:75px;
+
+}
